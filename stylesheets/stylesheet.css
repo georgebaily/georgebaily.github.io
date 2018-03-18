@@ -243,3 +243,6 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+/* various random edits from here */
+.breadcrumb {font-size: small;}
